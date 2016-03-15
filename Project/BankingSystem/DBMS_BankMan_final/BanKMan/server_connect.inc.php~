@@ -1,0 +1,6 @@
+<?php
+if(!mysql_connect('localhost','root','sparsh') || !mysql_select_db('BankMan'))
+{	$error='Cant connect'; 
+	die($error);
+}
+?>
