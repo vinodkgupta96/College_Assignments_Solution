@@ -14,3 +14,7 @@ git remote add orgin <GithbRepositoryAddress>
 #confirm the origin
 git remote -v
 git log 
+git log author="Vinod Kumar"
+git diff  			# diff between working copy and repository
+git diff -staged 	#diff between staged and repository
+
