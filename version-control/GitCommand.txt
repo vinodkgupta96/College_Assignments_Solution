@@ -1,0 +1,16 @@
+#git set-up
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+#git set-up proxy 
+git config --http.proxy http://10.8.0.1:8080
+
+#command to unset the proxy in git bash shell
+git config --global --unset http.proxy
+git config --global --get http.proxy
+
+#Add repository origin
+#for adding the origin 
+git remote add orgin <GithbRepositoryAddress>
+#confirm the origin
+git remote -v
+git log 

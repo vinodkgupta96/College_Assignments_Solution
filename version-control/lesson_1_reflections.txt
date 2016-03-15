@@ -1,0 +1,5 @@
+Populate lesson_1_reflections.txt with the following question and your thoughts on it:
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+When you've created your document, written down your thoughts, and saved the file, click "Next" to learn about some systems that can help you create these versions of your files.
