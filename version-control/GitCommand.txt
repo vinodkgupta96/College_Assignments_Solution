@@ -17,4 +17,5 @@ git log
 git log author="Vinod Kumar"
 git diff  			# diff between working copy and repository
 git diff -staged 	#diff between staged and repository
+git commit -am "commit comments" #any modified file directly goes to repository
 
