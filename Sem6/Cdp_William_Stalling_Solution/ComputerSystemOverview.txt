@@ -1,0 +1,34 @@
+1.1
+Four main elements of computer
+A.Control Unit :: Which interprets the instructions in memory.
+B.ALU :: Which does the binary operations.	
+C.Main Memory :: Which stores the data and instructions.
+D.I/O :: Input/Ouptut equipment and respective operations are managed by Control Unit.
+
+1.2
+Two main Categories of processor registers.
+1.User visible register :: Enables the machine-assembly level programmer to minimize main memory references by optimizing register use.  
+2.Control and status registers :: Control the operations of CPU and by previledged operating system routine to control the execution of various programs.
+
+1.3
+1.Processor memory
+2.data proscessing
+3.Input/Output operatiosn
+4.Control 
+1.4
+
+1.4
+An interrupt is mechanism by which an I/O device or memory may interrupt the sequencing of processor.
+1.5
+Either disable the next interrupt until previous is handled successfully or use priority based interrupt handler.
+1.6
+cost,access time and capacity.
+1.7
+chache is small and faster memory.It works between CPU and main memory.Cache acts as a buffer for least recently used memory locations.
+1.8
+multiprocessor system:It has multiple CPU seperated in a machine on different chip.
+multicore system: It has multiple cores on same chip.
+1.9
+
+1.10
+exploiting=make use of
