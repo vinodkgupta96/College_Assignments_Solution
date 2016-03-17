@@ -32,3 +32,7 @@ multicore system: It has multiple cores on same chip.
 
 1.10
 exploiting=make use of
+1.2
+
+
+
